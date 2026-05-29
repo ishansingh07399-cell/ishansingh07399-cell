@@ -1,16 +1,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;pause=1000&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=80&amp;lines=Hi+there!+I'm+Ishan;Competitive+Programmer;Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines=Hi+there!+I'm+Ishan;Competitive+Programmer alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="left">
-  <!-- Replaced with a highly reliable Tenor coding GIF -->
-  <img align="right" width="200" src="https://media.tenor.com/bZe62mRtvW0AAAAi/cat-coding.gif" alt="Coding Cat" />
+  <img align="right" width="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" />
   
-  <p>I'm a third-year Computer Science student passionate about modern web development, building full-stack applications, and solving algorithmic challenges. You can often find me practicing Data Structures, boosting my CodeChef rating, or experimenting with interactive 3D web elements.</p>
+  <p>I'm a Computer Science student passionate about  solving algorithmic challenges. You can often find me practicing Data Structures qs</p>
 
   <h3>💻 Languages & Tools:</h3>
   <p>
@@ -39,15 +38,10 @@
 <br clear="both">
 
 ### 📊 GitHub Stats:
-<div align="center">
-  <!-- Fixed the ampersand parsing issues by converting them to &amp; -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ishansingh07399-cell&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansingh07399-cell&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
-</div>
 
-<br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishansingh07399-cell&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ishansingh07399-cell)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishansingh07399-cell&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ishansingh07399-cell)
 
 ### 🔥 GitHub Streak:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansingh07399-cell&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
-</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishansingh07399-cell&theme=tokyonight&hide_border=true)](https://github.com/ishansingh07399-cell)
