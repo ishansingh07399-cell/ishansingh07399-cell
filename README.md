@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines=Hi+there!+I'm+Ishan;Competitive+Programmer alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;pause=1000&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=80&amp;lines=Hi+there!+I'm+Ishan;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,7 +9,7 @@
 <div align="left">
   <img align="right" width="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" />
   
-  <p>I'm a Computer Science student passionate about  solving algorithmic challenges. You can often find me practicing Data Structures qs</p>
+  <p>I'm a Computer Science student passionate about solving algorithmic challenges. You can often find me practicing Data Structures qs</p>
 
   <h3>💻 Languages & Tools:</h3>
   <p>
