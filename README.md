@@ -1,14 +1,14 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines=Hi+there!+I'm+Ishan+👋;Competitive+Programmer;Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;pause=1000&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=80&amp;lines=Hi+there!+I'm+Ishan;Competitive+Programmer;Web+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="left">
-  <!-- Fixed the broken GIF with a reliable animated tech icon hosted on GitHub -->
-  <img align="right" width="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Developer Boy" />
+  <!-- Replaced with a highly reliable Tenor coding GIF -->
+  <img align="right" width="200" src="https://media.tenor.com/bZe62mRtvW0AAAAi/cat-coding.gif" alt="Coding Cat" />
   
   <p>I'm a third-year Computer Science student passionate about modern web development, building full-stack applications, and solving algorithmic challenges. You can often find me practicing Data Structures, boosting my CodeChef rating, or experimenting with interactive 3D web elements.</p>
 
@@ -32,7 +32,6 @@
   <h3>🌐 Connect with me:</h3>
   <p>
     <a href="mailto:ishansingh07399-cell@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <!-- Don't forget to add your actual LinkedIn username here! -->
     <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
@@ -41,13 +40,14 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ishansingh07399-cell&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansingh07399-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Fixed the ampersand parsing issues by converting them to &amp; -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ishansingh07399-cell&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansingh07399-cell&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 ### 🔥 GitHub Streak:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansingh07399-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansingh07399-cell&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
 </div>
