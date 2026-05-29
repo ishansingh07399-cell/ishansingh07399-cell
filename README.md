@@ -2,7 +2,7 @@
   <img align="right" width="200" src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding GIF" />
   
   <h1>Hi 👋! I'm Ishan</h1>
-  <p>I'm a Computer Science student passionate about web development, building impactful projects, and solving algorithmic challenges. You can often find me practicing Data Structures or competing in CodeChef contests.</p>
+  <p>I'm a Computer Science student passionate about web development, building impactful projects, and solving algorithmic challenges. You can often find me practicing Data Structures qs.</p>
 
   <h3>💻 Languages & Tools:</h3>
   <p>
