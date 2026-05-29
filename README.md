@@ -39,8 +39,10 @@
 
 ### 📊 GitHub Stats:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishansingh07399-cell&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ishansingh07399-cell)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishansingh07399-cell&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ishansingh07399-cell)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishansingh07399-cell&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" alt="Ishan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansingh07399-cell&layout=compact&theme=dark&bg_color=0D1117&hide_border=true" alt="Ishan's Top Languages" />
+</div>
 
 ### 🔥 GitHub Streak:
 
