@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ishan Singh 👋</h1>
-<h3 align="center">A passionate Developer & Competitive Programmer</h3>
+<h3 align="center">A passionate Developer &DSA enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/ishansingh07399-cell">
