@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
 ### 🌐 Frontend
@@ -74,8 +73,6 @@
   <a href="https://www.codechef.com/users/mysteve94">
     <img src="https://img.shields.io/badge/CodeChef-1204_Rating-8B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </div>
 
 ---
