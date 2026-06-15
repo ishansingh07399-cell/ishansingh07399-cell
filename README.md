@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/ishansingh07399-cell">
-    <img src="https://komarev.com/ghpvc/?username=ishansingh07399-cell&label=Profile%20views&color=0e75b6&style=flat" alt="ishansingh07399-cell" />
   </a>
 </p>
 
