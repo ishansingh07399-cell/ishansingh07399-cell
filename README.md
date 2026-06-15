@@ -12,7 +12,7 @@
 
 *   🔭 I’m currently a student exploring the depths of **Computer Science** and building interactive web experiences.
 *   🌱 Deep-diving into **Data Structures & Algorithms**, **Backend**.
-*   🏆 Active in Competitive Programming, regularly tackling problems to optimize logic and performance.
+*   🏆 Active in DSA problem solving, regularly tackling problems to optimize logic and performance.
 *   👯 I’m always open to collaborating on innovative **React.js / Node.js** projects and AI-integrated applications.
 
 ---
