@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, I'm Ishan Singh 👋</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🎓 CS Student @ IIIT | ⚡ DSA & Problem Solving Enthusiast</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🎓 CS Student @ IIIT</h3>
 
 <p align="center">
-  <a href="https://codolio.com/profile/Ishan_Singh_89">
-    <img src="https://img.shields.io/badge/Codolio-Profile-FF6B00?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio Profile" />
-  </a>
   <a href="https://github.com/ishansingh07399-cell">
     <img src="https://img.shields.io/badge/GitHub-ishansingh07399--cell-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -19,8 +16,6 @@
 
 - 🔭 **Focus:** Building responsive, production-grade **MERN Stack** web applications and scalable backends.
 - 🏫 **Education:** Computer Science student at **Indian Institute of Information Technology (IIIT)**.
-- 🧩 **Data Structures & Algorithms:** Consistently solving algorithmic problems to write optimized, high-performance code.
-- 🏆 **Coding Consistency:** **136+ DSA Problems Solved** across 153 active problem-solving days.
 - 👯 **Open For:** Full-Stack web development roles, open-source projects, and React.js/Node.js collaborations.
 
 ---
@@ -43,7 +38,7 @@
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
 </p>
 
-### 💻 Programming Languages (Codolio Analytics)
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C++_38%25-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript_31%25-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -70,25 +65,6 @@
 
 ---
 
-## 📊 Data Structures & Algorithms (DSA) Stats
-
-<div align="center">
-
-| Category | Count |
-| :--- | :--- |
-| ⚡ **Total DSA Solved** | **136 Questions** |
-| 🟢 **Easy** | **70** |
-| 🟡 **Medium** | **61** |
-| 🔴 **Hard** | **5** |
-| 🔥 **Active Problem Solving Days** | **153 Days** |
-
-</div>
-
-### 🧠 Core Algorithm Focus
-`Arrays (74)` • `HashMap & Set (30)` • `Strings (28)` • `Two Pointers (25)` • `Linked Lists (18)` • `Sorting (17)` • `Math (15)`
-
----
-
 ## 📈 GitHub Activity & Development Stats
 
 <div align="center">
@@ -103,5 +79,4 @@
 <p align="center">
   <a href="https://linkedin.com/in/your_linkedin_username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/ishansingh07399-cell"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
-  <a href="https://codolio.com/profile/Ishan_Singh_89"><img src="https://img.shields.io/badge/Codolio-FF6B00?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio Profile" /></a>
 </p>
