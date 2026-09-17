@@ -1,82 +1,85 @@
-<h1 align="center">Hi there, I'm Ishan Singh 👋</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🎓 CS Student @ IIIT</h3>
+# Hi there, I'm Ishan Singh 👋
 
-<p align="center">
-  <a href="https://github.com/ishansingh07399-cell">
-    <img src="https://img.shields.io/badge/GitHub-ishansingh07399--cell-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/your_linkedin_username">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+### 💻 Full Stack Web Developer | 🎓 CS Student @ IIIT
+
+[![GitHub](https://img.shields.io/badge/GitHub-ishansingh07399--cell-181717?style=for-the-badge&logo=github)](https://github.com/ishansingh07399-cell)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔭 **Focus:** Building responsive, production-grade **MERN Stack** web applications and scalable backends.
-- 🏫 **Education:** Computer Science student at **Indian Institute of Information Technology (IIIT)**.
-- 👯 **Open For:** Full-Stack web development roles, open-source projects, and React.js/Node.js collaborations.
+- 🚀 **Focus:** Building full-stack web applications using the MERN stack.
+- 🎓 **Education:** Computer Science student at Indian Institute of Information Technology (IIIT).
+- 💻 **Currently:** Strengthening my skills in React, Node.js, Express.js, MongoDB and DSA.
+- 🌱 **Open For:** Full-stack development opportunities, open-source projects, and collaborations.
 
 ---
 
-## 🛠️ Tech Stack & Skillset
+## 🛠️ Tech Stack & Skills
 
 ### 🌐 Frontend Engineering
-<p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
 
-### ⚙️ Backend Architecture & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C++_38%25-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript_31%25-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python_16%25-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/CSS_5%25-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-</p>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🔧 Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-* **🎬 FoodView / Recipe Discovery Platform:** Full-stack media-rich food discovery feed featuring video reels, JWT HTTP-only cookie authentication, memory buffer uploads, and Mongoose atomic updates.
-* **🏢 Mess Management System:** Collaborative web application for hostel mess administration, menu planning, and user tracking.
-* **✨ Interactive Web Interfaces:** Dynamic web applications featuring 3D visual components, custom canvas backgrounds, and fluid UX animations.
+### 🍿 FoodView — MERN Recipe Discovery Platform
+
+A full-stack recipe discovery platform built using the **MERN stack**, focused on a modern and media-rich food discovery experience.
+
+- 📱 Responsive recipe discovery feed with video reels
+- 🔐 JWT authentication using **HTTP-only cookies**
+- 📤 Memory-efficient media uploads using buffer processing
+- 🗄️ MongoDB + Mongoose for data management
+- ⚛️ React-based interactive frontend
+- 🚀 Node.js + Express.js REST API backend
+- 🔄 Atomic database updates using MongoDB/Mongoose
+
+**Tech Stack:**  
+`React` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
+
+🔗 **[View FoodView Repository](YOUR_FOODVIEW_REPO_LINK)**
 
 ---
 
-## 📈 GitHub Activity & Development Stats
+## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishansingh07399-cell&show_icons=true&theme=radium&hide_border=true" alt="Ishan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishansingh07399-cell&theme=radium&hide_border=true" alt="Ishan's GitHub Streak" width="48%" />
-</div>
+![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishansingh07399-cell&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/your_linkedin_username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/ishansingh07399-cell"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/ishansingh07399-cell)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+---
+
+⭐ Thanks for visiting my profile!
